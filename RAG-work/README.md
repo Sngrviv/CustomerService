@@ -119,18 +119,13 @@ The TaskClassifier uses a weighted pattern matching system to determine if a que
 
 ## License
 
-This project is licensed under the [Your License] License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
 - Django framework
 - Streamlit community
-- [Add any other acknowledgments]
 
 ## Contact
 
-[Your Name/Organization]
-[Contact Information]
-
----
-**Note**: Replace placeholders (texts in brackets) with your specific information.
+VIIT 
