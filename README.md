@@ -52,11 +52,6 @@ npm install  # or equivalent command
 cp .env.example .env
 ```
 
-4. Start the services
-```bash
-[Add startup commands]
-```
-
 ## 🤝 Contributing
 We welcome contributions! Please follow these steps:
 1. Fork the repository
